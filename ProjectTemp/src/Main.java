@@ -8,7 +8,7 @@ public class Main {
         DoctorInfo di=new DoctorInfo();
         Reception r=new Reception();
         do{
-            System.out.println("WHO ARE YOU ? \n1-ADMIN \n2-DOCTOR \n3-RECEPTIONIST");
+            System.out.println("WHO ARE YOU ? \n1-ADMIN \n2-RECEPTIONIST \n3-DOCTOR");
             switch (sc.nextInt()){
                 case 1:{
                     do{
@@ -44,7 +44,7 @@ public class Main {
                     }while (sc.nextInt()==1);
                     break;
                 }
-                case 2:{
+                case 3:{
                     do{
                         System.out.println("---------------------DOCTOR--------------------");
                         System.out.println("Enter your Doctor ID :");
@@ -79,7 +79,7 @@ public class Main {
                     }while (sc.nextInt()==1);
                     break;
                 }
-                case 3:{
+                case 2:{
                     do{
                         System.out.println("----------------------RECEPTION--------------");
                         System.out.println("Enter the Password : ");

@@ -55,7 +55,7 @@ public class Patient {
         this.amountForAppointment = amountForAppointment;
     }
 
-    public Patient(int patientID, String patientName, int age, char patientSex, String patientIllness, float amountForAppointment)
+    public Patient(int patientID, String patientName, int age, char patientSex, String patientIllness)
     {
         this.patientID=patientID;
         this.patientName=patientName;

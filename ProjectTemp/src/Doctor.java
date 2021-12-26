@@ -7,16 +7,17 @@ public class Doctor {
    private int age;
    private char DoctorSex;
    private String DoctorSpeciality;
-    Queue<Patient> p;
-   // double amt;
+   Queue<Patient> p;
+   private double amt;//checking fees
 
-    public Doctor(int doctorID, String doctorName, int age, char doctorSex, String doctorSpeciality) {
+    public Doctor(int doctorID, String doctorName, int age, char doctorSex, String doctorSpeciality,double amt) {
         DoctorID = doctorID;
         DoctorName = doctorName;
         this.age = age;
         DoctorSex = doctorSex;
         DoctorSpeciality = doctorSpeciality;
         p=new LinkedList<>();
+        this.amt=amt;
     }
 
     public int getDoctorID() {
