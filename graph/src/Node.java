@@ -1,3 +1,9 @@
+/*
+ * NAME ;- KOMAL VHANMANE
+ * ROLL NO :- 2470
+ * CNO:-C22020221471
+ * ASSIGNMENT-7
+ * DATE OF SUBMISSION :- 27-12-21*/
 import java.util.*;
 class Node{
     int data;
@@ -161,7 +167,7 @@ class Graph2{
         Scanner sc=new Scanner(System.in);
         Graph2 g=new Graph2();
         do{
-            System.out.println("Enter the choice \n1-.Adjacency Matrix\n2-.Adjacency List&quot");
+            System.out.println("Enter the choice \n1-.Adjacency Matrix\n2-.Adjacency List\n3-Exit");
             switch (sc.nextInt()){
                 case 1:{
                     do{
@@ -188,7 +194,7 @@ class Graph2{
                 }
                 case 2:{
                     do{
-                        System.out.println("Enter the choice \n1-Create a List Representation Graph\n2-Display each List\n3-DFS-Traversal\n4-bfs traversal");
+                        System.out.println("Enter the choice \n1-Create a List Representation Graph\n2-Display each List\n3-DFS-Traversal\n4-BFS traversal");
                         switch (sc.nextInt()){
                             case 1:{
                                 g.createUsingAdjList();
@@ -212,6 +218,10 @@ class Graph2{
                         }
                         System.out.println("Do you want to continuing in AdjList? if yes press 1");
                     }while (sc.nextInt()==1);
+                    break;
+                }
+                case 3:{
+                    System.exit(0);
                 }
             }
             System.out.println("Do you want to continuing in chossing method? if yes press 1");
