@@ -48,6 +48,9 @@ public class Node3 {
         }
     }
     public static Node3 inORderPredeccesor(Node3 root){
+        if(root==null){
+            return null;
+        }
         root=root.left;
         while(root.right !=null){
             root=root.right;

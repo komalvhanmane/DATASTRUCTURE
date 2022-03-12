@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ARRAY/ARRAY.iml" filepath="$PROJECT_DIR$/ARRAY/ARRAY.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA IMP Quetions/Array/Array.iml" filepath="$PROJECT_DIR$/DSA IMP Quetions/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary Tree/Binary Tree.iml" filepath="$PROJECT_DIR$/Binary Tree/Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryNode/BinaryNode.iml" filepath="$PROJECT_DIR$/BinaryNode/BinaryNode.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" filepath="$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked list/Circular Linked List/Circular Linked List.iml" filepath="$PROJECT_DIR$/Linked list/Circular Linked List/Circular Linked List.iml" />
@@ -16,7 +17,10 @@
       <module fileurl="file://$PROJECT_DIR$/Linked list/Singly Linked List/Deleting a Node/Deleting by value/Deleting by value.iml" filepath="$PROJECT_DIR$/Linked list/Singly Linked List/Deleting a Node/Deleting by value/Deleting by value.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked list/Doubly Linkrd Lidt/Doubly Linkrd Lidt.iml" filepath="$PROJECT_DIR$/Linked list/Doubly Linkrd Lidt/Doubly Linkrd Lidt.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" filepath="$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalPracticeBeforeDSPracticle/FinalPracticeBeforeDSPracticle.iml" filepath="$PROJECT_DIR$/FinalPracticeBeforeDSPracticle/FinalPracticeBeforeDSPracticle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph1/Graph1.iml" filepath="$PROJECT_DIR$/Graph1/Graph1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heap/Heap.iml" filepath="$PROJECT_DIR$/Heap/Heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap1/Heap1.iml" filepath="$PROJECT_DIR$/Heap1/Heap1.iml" />
       <module fileurl="file://$PROJECT_DIR$/HostelManagement/HospitalManagement.iml" filepath="$PROJECT_DIR$/HostelManagement/HospitalManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/HostelProject/HostelProject.iml" filepath="$PROJECT_DIR$/HostelProject/HostelProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked list/Singly Linked List/Inserting a Node/Inserting a Node.iml" filepath="$PROJECT_DIR$/Linked list/Singly Linked List/Inserting a Node/Inserting a Node.iml" />
@@ -24,7 +28,9 @@
       <module fileurl="file://$PROJECT_DIR$/Linked list/Linked list.iml" filepath="$PROJECT_DIR$/Linked list/Linked list.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA IMP Quetions/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/DSA IMP Quetions/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList1.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList2/LinkedList2.iml" filepath="$PROJECT_DIR$/LinkedList2/LinkedList2.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA IMP Quetions/Matrix/Matrix.iml" filepath="$PROJECT_DIR$/DSA IMP Quetions/Matrix/Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniProjectSnakeGame/MiniProjectSnakeGame.iml" filepath="$PROJECT_DIR$/MiniProjectSnakeGame/MiniProjectSnakeGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/MiniProjectTemp2/MiniProjectTemp2.iml" filepath="$PROJECT_DIR$/MiniProjectTemp2/MiniProjectTemp2.iml" />
       <module fileurl="file://$PROJECT_DIR$/MiniProjectTemp3/MiniProjectTemp3.iml" filepath="$PROJECT_DIR$/MiniProjectTemp3/MiniProjectTemp3.iml" />
       <module fileurl="file://$PROJECT_DIR$/MusicPlayer/MusicPlayer.iml" filepath="$PROJECT_DIR$/MusicPlayer/MusicPlayer.iml" />
@@ -41,6 +47,7 @@
       <module fileurl="file://$PROJECT_DIR$/Stack2/Stack2.iml" filepath="$PROJECT_DIR$/Stack2/Stack2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Treee/Treee.iml" filepath="$PROJECT_DIR$/Treee/Treee.iml" />
       <module fileurl="file://$PROJECT_DIR$/graph/graph.iml" filepath="$PROJECT_DIR$/graph/graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hASHING/hASHING.iml" filepath="$PROJECT_DIR$/hASHING/hASHING.iml" />
     </modules>
   </component>
 </project>
