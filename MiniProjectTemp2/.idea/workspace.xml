@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32425309-a5a9-4306-9b26-c2928f43f0dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BinaryNode/BinaryNode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryNode/src/Binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryNode/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graph1/Graph1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graph1/src/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graph1/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heap/src/Heap2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heap1/Heap1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heap1/src/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heap1/src/Heapify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList2/LinkedList2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList2/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProjectSnakeGame/MiniProjectSnakeGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProjectSnakeGame/src/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProjectSnakeGame/src/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProjectSnakeGame/src/CellType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProjectSnakeGame/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProjectSnakeGame/src/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlayer/src/BoardPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlayer/src/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlayer/src/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlayer/src/SidePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlayer/src/SnakeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlayer/src/TileType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hASHING/hASHING.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hASHING/src/Hashing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearchTree/src/Node3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearchTree/src/Node3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjectTemp2.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="25iwJeoyeE8JJbAGu7f5nY9i5H9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32425309-a5a9-4306-9b26-c2928f43f0dc" name="Changes" comment="" />
+      <created>1646023143380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646023143380</updated>
+    </task>
+    <servers />
+  </component>
+</project>
