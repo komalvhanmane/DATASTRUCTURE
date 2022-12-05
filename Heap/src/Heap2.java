@@ -1,3 +1,5 @@
+import java.util.Comparator;
+import java.util.PriorityQueue;
 import java.util.Scanner;
 
 public class Heap2 {
@@ -109,29 +111,35 @@ public class Heap2 {
         }
     }
     public static void main(String[] args) {
-        Heap2 h=new Heap2();
-        Scanner sc=new Scanner(System.in);
-        do{
-            System.out.println("Enter choice \n1-Create\n2-Display\n3-delete\n4-heapsort");
-            switch (sc.nextInt()){
-                case 1:{
-                    h.insert();
-                    break;
-                }
-                case 2:{
-                    h.display();
-                    break;
-                }
-                case 3:{
-                    h.delete();
-                    break;
-                }
-                case 4:{
-                    h.heapsort();
-                    break;
-                }
-            }
-            System.out.println("Do you want to continue press 1");
-        }while (sc.nextInt()==1);
+        PriorityQueue<Integer> maxheap=new PriorityQueue<>();
+        maxheap.add(1);
+        maxheap.add(2);
+        maxheap.add(3);
+        maxheap.add(9);
+        System.out.println(maxheap);
+//        Heap2 h=new Heap2();
+//        Scanner sc=new Scanner(System.in);
+//        do{
+//            System.out.println("Enter choice \n1-Create\n2-Display\n3-delete\n4-heapsort");
+//            switch (sc.nextInt()){
+//                case 1:{
+//                    h.insert();
+//                    break;
+//                }
+//                case 2:{
+//                    h.display();
+//                    break;
+//                }
+//                case 3:{
+//                    h.delete();
+//                    break;
+//                }
+//                case 4:{
+//                    h.heapsort();
+//                    break;
+//                }
+//            }
+//            System.out.println("Do you want to continue press 1");
+//        }while (sc.nextInt()==1);
     }
 }

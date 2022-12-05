@@ -5,6 +5,7 @@
  * ASSIGNMENT-7
  * DATE OF SUBMISSION :- 27-12-21*/
 import java.util.*;
+
 class Node{
     int data;
     Node link;
@@ -14,6 +15,7 @@ class Node{
         link=null;
     }
 }
+
 class Graph2{
     int n;//number of vertices
     int e;//number of edges
